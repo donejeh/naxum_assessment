@@ -1,6 +1,9 @@
 #NAXUM SKILL ASSESSMENT
 
 ### Read the pdf file
+[CT and COMM TSA (1).pdf](https://github.com/donejeh/naxum_assessment/files/10704387/CT.and.COMM.TSA.1.pdf)
+
+
 
 Multi-level marketing challenge using Laravel (php) 
 
